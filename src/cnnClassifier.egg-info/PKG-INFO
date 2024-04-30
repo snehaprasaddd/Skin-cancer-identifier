@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: cnnClassifier
+Version: 0.0.0
+Summary: python package for
+Home-page: https://github.com/snehaprasaddd/skin-cancer-identifier
+Author: snehaprasaddd
+Author-email: prasadsneha47@gmail.com
+Project-URL: Bug Tracker, https://github.com/snehaprasaddd/skin-cancer-identifier/issues
+License-File: LICENSE
+
+text/markdown
